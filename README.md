@@ -8,4 +8,4 @@ This is a supplementary document for the paper: Deep Reinforcement Learning Base
    2. Click the button "Download ZIP".
    3. Save the folder to any place you want on your computer.
    4. Find the folder you saved and unzip it for easy reading.
-4. We have already submitted this document as a supplementary document to our paper. You can also directly read our supplementary document if you have it.
+4. We have already submitted this document as a supplementary document for our paper. You can also directly read our supplementary document if you have it.
